@@ -24,5 +24,5 @@ BGP hijacking is a malicious attack on the Border Gateway Protocol (BGP), the sy
  &nbsp # check the output in `website.sh` window<br>
  &nbsp mininet@mininet-vm:$ ./stop_rogue.sh<br>
 <br>
- <b>Note:</b>Make sure that you have installed FRR (free range routing) by running <b>sudo apt-get install frr</b> ,also enable and start frr by running <b>systemctl enable frr</b> and <b>systemctl start frr</b>
+ <b>Note:</b>Make sure that you have installed FRR (free range routing) by running <b>sudo apt-get install frr</b> ,also enable and start frr by running <b>systemctl enable frr</b> and <b>systemctl start frr.</b>
 
